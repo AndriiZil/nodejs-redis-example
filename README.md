@@ -170,11 +170,11 @@
 ```
     DISCARD
 ```
-### 
+### Redis like subscriber of messages
 ```
     SUBSCRIBE news
 ```
-### 
+### Redis like publisher of messages
 ```
     PUBLISH news "Hello world"
 ```
